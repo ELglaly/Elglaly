@@ -47,36 +47,28 @@ Open for technical discussions and project collaborations:
 
 <div style="display: flex; gap: 2%;">
   <picture style="width: 70%;">
-    <source srcset="https://github-readme-stats.vercel.app/api?username=ELglaly&show_icons=true&theme=github_dark&bg_color=00000000&hide_border=true" media="(prefers-color-scheme: dark)"/>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=ELglaly&show_icons=true&bg_color=00000000&text_color=58a6ff&hide_border=true" media="(prefers-color-scheme: light)"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=ELglaly&show_icons=true&bg_color=00000000&text_color=58a6ff&hide_border=true"/>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=ELglaly&show_icons=true&theme=github_dark&bg_color=00000000&hide_border=true&include_all_commits=true" media="(prefers-color-scheme: dark)"/>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=ELglaly&show_icons=true&bg_color=00000000&text_color=58a6ff&hide_border=true&include_all_commits=true" media="(prefers-color-scheme: light)"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=ELglaly&show_icons=true&bg_color=00000000&text_color=58a6ff&hide_border=true&include_all_commits=true"/>
   </picture>
 
   <picture style="width: 28%;">
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ELglaly&layout=compact&theme=github_dark&bg_color=00000000&hide_border=true&langs_count=10" media="(prefers-color-scheme: dark)"/>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ELglaly&layout=compact&bg_color=00000000&text_color=58a6ff&hide_border=true&langs_count=10" media="(prefers-color-scheme: light)"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELglaly&layout=compact&bg_color=00000000&text_color=58a6ff&hide_border=true&langs_count=10"/>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ELglaly&layout=compact&theme=github_dark&bg_color=00000000&hide_border=true&langs_count=10&include_all_commits=true" media="(prefers-color-scheme: dark)"/>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ELglaly&layout=compact&bg_color=00000000&text_color=58a6ff&hide_border=true&langs_count=10&include_all_commits=true" media="(prefers-color-scheme: light)"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELglaly&layout=compact&bg_color=00000000&text_color=58a6ff&hide_border=true&langs_count=10&include_all_commits=true"/>
   </picture>
-</div>
-
 
 ### My Latest Projects (2024/2025)
 
 | Project | Description | Links |
 |---------|-------------|-------|
-| **Listenify** | Real-time multilingual speech translation. `React` `Speech Recognition` `AI` | [Live Demo](https://listenify-live.vercel.app/) |
-| **QuizatAI** | Dynamic AI-generated multiple-choice questions. `jQuery` `MongoDB` `AI` | [Live Demo](https://omar7001-b.github.io/QuizatAI/) |
-| **GPA Calculator** | Academic performance tracking tool. `Vanilla HTML` | [Live Demo](https://omar7001-b.github.io/gpa-calc/) |
-| **CryptoX** | Mobile security toolkit for `cryptography` and `steganography`. `Kotlin` | [Google Play](https://play.google.com/store/apps/details?id=com.omar.cryptox) |
-| **Al Dalal** | Agricultural land management app. | [Google Play](https://play.google.com/store/apps/details?id=aplic3397443.dei) |
-| **Todo-Abbas** | Simple task management app. `Java` `SQLite` | [GitHub](https://github.com/Omar7001-B/todo-abbas) |
-
+| **Pharmacy Management Program** | A program to manage pharmacy operations with a user-friendly GUI `Java` `JavaFX` `OOP` `Selenium` | [GitHub](https://github.com/ELglaly/Pharmacy-Frontend) |
+| **Compiler Design Project for Arabic Language** | A compiler for Arabic language focusing on lexical analysis and syntax parsing. `ASP.NET MVC` `Automata Theory` `Regular Expressions` | [GitHub](https://github.com/ELglaly/Simple-Arabic-Compiler) |
 ---
 
 ## 🐍 Commits Sneak Peek
-
 <picture width="100%">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Elglaly/Elglaly/github-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Elglaly/Elglaly/output/github-snake-dark.svg" width="100%" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Elglaly/Elglaly/output/github-snake.svg" width="100%" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Elglaly/Elglaly/output/github-snake.svg" width="100%" />
 </picture>
