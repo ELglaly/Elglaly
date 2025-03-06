@@ -62,7 +62,7 @@ Open for technical discussions and project collaborations:
 
 | Project | Description | Links |
 |---------|-------------|-------|
-| **Ecommerce-SpringBoot** | A Backend system fo Ecommerce website using `Java` `Spring boot` `OOP` `Desgin Pattern` | [GitHub](https://github.com/ELglaly/Ecommerce-SpringBoot) |
+| **Ecommerce-SpringBoot** | A Backend system fo Ecommerce website using `Java` `Spring boot` `Spring Security ` `OOP` `Desgin Pattern` | [GitHub](https://github.com/ELglaly/Ecommerce-SpringBoot) |
 | **Pharmacy Management Program** | A program to manage pharmacy operations with a user-friendly GUI `Java` `JavaFX` `OOP` `Selenium` | [GitHub](https://github.com/ELglaly/Pharmacy-Frontend) |
 | **Compiler Design Project for Arabic Language** | A compiler for Arabic language focusing on lexical analysis and syntax parsing. `ASP.NET MVC` `Automata Theory` `Regular Expressions` | [GitHub](https://github.com/ELglaly/Simple-Arabic-Compiler) |
 ---
