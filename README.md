@@ -1,3 +1,4 @@
+
 # Hi, I'm Sherif Elglaly
 
 <div align="left">
@@ -41,22 +42,12 @@ Open for technical discussions and project collaborations:
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
-
-
-<div style="display: flex; gap: 2%;">
-  <picture style="width: 70%;">
-    <source srcset="https://github-readme-stats.vercel.app/api?username=ELglaly&show_icons=true&theme=github_dark&bg_color=00000000&hide_border=true&include_all_commits=true" media="(prefers-color-scheme: dark)"/>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=ELglaly&show_icons=true&bg_color=00000000&text_color=58a6ff&hide_border=true&include_all_commits=true" media="(prefers-color-scheme: light)"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=ELglaly&show_icons=true&bg_color=00000000&text_color=58a6ff&hide_border=true&include_all_commits=true"/>
-  </picture>
-
-  <picture style="width: 28%;">
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ELglaly&layout=compact&theme=github_dark&bg_color=00000000&hide_border=true&langs_count=10&include_all_commits=true" media="(prefers-color-scheme: dark)"/>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ELglaly&layout=compact&bg_color=00000000&text_color=58a6ff&hide_border=true&langs_count=10&include_all_commits=true" media="(prefers-color-scheme: light)"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELglaly&layout=compact&bg_color=00000000&text_color=58a6ff&hide_border=true&langs_count=10&include_all_commits=true"/>
-  </picture>
+<table><tbody><tr border="none"><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=Elglaly&theme=dark&show_icons=true&count_private=true"><br>
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=Elglaly&theme=dark"></td><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=Elglaly&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
 ### My Latest Projects (2024/2025)
 
