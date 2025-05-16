@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/ec4c9fc0-3046-466e-bb7d-786e24378110)
 # Hi, I'm Sherif Elglaly
 
 <div align="left">
@@ -49,6 +49,10 @@ Open for technical discussions and project collaborations:
 <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=Elglaly&theme=dark"></td><td width="50%" align="center">
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=Elglaly&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Elglaly&color=green" alt="profile views" />
+</p>
 ### My Latest Projects (2024/2025)
 
 | Project | Description | Links |
