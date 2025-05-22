@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ec4c9fc0-3046-466e-bb7d-786e24378110)
+
 # Hi, I'm Sherif Elglaly
 
 <div align="left">
